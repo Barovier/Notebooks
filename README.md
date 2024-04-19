@@ -1,6 +1,6 @@
 # CSE 6040 – Computing for Data Analysis (Foundational course)
 
-Computing for Data Analysis! Hands-on programming techniques relevant to data analysis and machine learning. Through a series of projects and assignments, I will gain practical experience in fundamental programming concepts and tools essential for data analysis.
+Computing for Data Analysis! Hands-on programming techniques relevant to data analysis and machine learning. Through a series of projects and assignments, I gained practical experience in fundamental programming concepts and tools essential for data analysis.
 
 ## Course Overview
 In this foundational course, I cover the following topics:
